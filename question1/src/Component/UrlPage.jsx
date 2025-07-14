@@ -61,7 +61,7 @@ const addurl = (e) => {
            
         })
        });
-       Navigate('/showurls');
+       Navigate('/shorturls');
     };
   return (
     <div className="container">
